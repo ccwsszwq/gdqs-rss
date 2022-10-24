@@ -5,9 +5,7 @@
 		<title>RAW.opml</title>
 	</head>
 <body>
-<outline text="07. Others" title="07. Others">
-		<outline text="Ethereum Research - Latest posts" title="Ethereum Research - Latest posts" description="" type="rss" version="RSS" htmlUrl="https://ethresear.ch/" xmlUrl="https://ethresear.ch/posts.rss"/>
-	
+<outline text="08. Test" title="08. Test">
 		<outline text="Aave Blog - Mirror" title="Aave Blog - Mirror" description="" type="rss" version="RSS" htmlUrl="https://aave.mirror.xyz/" xmlUrl="https://aave.mirror.xyz/feed/atom"/>
 		<outline text="Aave Blog - Medium" title="Aave Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave" xmlUrl="https://medium.com/feed/aave"/>
 		<outline text="Chainlink Blog" title="Chainlink Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.chain.link/" xmlUrl="https://blog.chain.link/rss/"/>
