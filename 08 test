@@ -7,7 +7,15 @@
 <body>
 <outline text="07. Others" title="07. Others">
 		<outline text="Ethereum Research - Latest posts" title="Ethereum Research - Latest posts" description="" type="rss" version="RSS" htmlUrl="https://ethresear.ch/" xmlUrl="https://ethresear.ch/posts.rss"/>
-		<outline text="Ethereum Research - Latest topics" title="Ethereum Research - Latest topics" description="" type="rss" version="RSS" htmlUrl="https://ethresear.ch/latest" xmlUrl="https://ethresear.ch/latest.rss"/>
+	
+		<outline text="Aave Blog - Mirror" title="Aave" description="" type="rss" version="RSS" htmlUrl="https://aave.mirror.xyz/" xmlUrl="https://aave.mirror.xyz/feed/atom"/>
+		<outline text="Aave Blog - Medium" title="Aave Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave" xmlUrl="https://medium.com/feed/aave"/>
+		<outline text="Chainlink Blog" title="Chainlink" description="" type="rss" version="RSS" htmlUrl="https://blog.chain.link/" xmlUrl="https://blog.chain.link/rss/"/>
+		<outline text="Synthetix Blog" title="Synthetix Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.synthetix.io/" xmlUrl="https://blog.synthetix.io/rss/"/>
+		<outline text="Ronin Blog - substack" title="Ronin Blog - substack" description="" type="rss" version="RSS" htmlUrl="https://roninblockchain.substack.com/" xmlUrl="https://roninblockchain.substack.com/feed"/>
+		<outline text="Optimism Blog - Mirror" title="Optimism Blog - Mirror" description="" type="rss" version="RSS" htmlUrl="https://optimism.mirror.xyz/" xmlUrl="https://optimism.mirror.xyz/feed/atom"/>
+		<outline text="Strips Finance - Medium" title="Strips Finance - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@strips-finance" xmlUrl="https://medium.com/feed/@strips-finance"/>
+		<outline text="Stargate Finance - Medium" title="Stargate Finance - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/stargate-official" xmlUrl="https://medium.com/feed/stargate-official"/>
 	</outline>
 	</body>
 </opml>
