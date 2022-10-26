@@ -39,7 +39,7 @@
 		<outline text="Gnosis on Medium" title="Gnosis on Medium" type="rss" xmlUrl="https://medium.com/feed/@gnosisPM" htmlUrl="https://medium.com/@gnosisPM?source=rss-e7281ad70ea------2"/>
 		<outline text="Gnosis Safe" title="Gnosis Safe" type="rss" xmlUrl="https://safe.mirror.xyz/feed/atom" htmlUrl="https://safe.mirror.xyz/"/>
 		<outline text="Hop" title="Hop" type="rss" xmlUrl="https://hop.mirror.xyz/feed/atom" htmlUrl="https://hop.mirror.xyz/"/>
-		<outline text="IPFS Blog & News" title="IPFS Blog & News" type="rss" xmlUrl="https://blog.ipfs.io/index.xml" htmlUrl="https://ipfs.io/blog/"/>
+		<outline text="IPFS Blog and News" title="IPFS Blog and News" type="rss" xmlUrl="https://blog.ipfs.io/index.xml" htmlUrl="https://ipfs.io/blog/"/>
 		<outline text="Matter Labs - Medium" title="Matter Labs - Medium" type="rss" xmlUrl="https://medium.com/feed/matter-labs" htmlUrl="https://medium.com/matter-labs?source=rss----bd3444e7f3b9---4"/>
 		<outline text="StarkWare on Medium" title="StarkWare on Medium" type="rss" xmlUrl="https://medium.com/feed/@StarkWare" htmlUrl="https://medium.com/@StarkWare?source=rss-373f5878a0c6------2"/>
 	</outline>
