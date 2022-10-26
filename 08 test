@@ -6,8 +6,8 @@
 	</head>
 <body>
 <outline text="08. Test" title="08. Test">
-		<outline text="Aave Mirror" title="Aave Blog Mirror" description="" type="rss" version="RSS" htmlUrl="https://aave.mirror.xyz/" xmlUrl="https://aave.mirror.xyz/feed/atom"/>
-		<outline text="Aave Medium" title="Aave Blog Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave" xmlUrl="https://medium.com/feed/aave"/>
+		<outline text="Aave Mirror" title="Aave Mirror" description="" type="rss" version="RSS" htmlUrl="https://aave.mirror.xyz/" xmlUrl="https://aave.mirror.xyz/feed/atom"/>
+		<outline text="Aave Medium" title="Aave Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave" xmlUrl="https://medium.com/feed/aave"/>
 		<outline text="Link Blog" title="Link Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.chain.link/" xmlUrl="https://blog.chain.link/rss/"/>
 		<outline text="Snx Blog" title="Snx Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.synthetix.io/" xmlUrl="https://blog.synthetix.io/rss/"/>
 		<outline text="Ron Substack" title="Ron Substack" description="" type="rss" version="RSS" htmlUrl="https://roninblockchain.substack.com/" xmlUrl="https://roninblockchain.substack.com/feed"/>
