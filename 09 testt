@@ -6,7 +6,9 @@
 	</head>
 <body>
 	<outline text="01. Project Updates" title="01. Project Updates">
- <outline text="Aptos-core" title="Aptos-core" type="rss" xmlUrl="https://github.com/aptos-labs/aptos-core/releases.atom" htmlUrl="https://github.com/aptos-labs/aptos-core/releases"/>
- </outline>
+<outline text="Aptos-core" title="Aptos-core" type="rss" xmlUrl="https://github.com/aptos-labs/aptos-core/releases.atom" htmlUrl="https://github.com/aptos-labs/aptos-core/releases"/>
+<outline text="Arbitrum" title="Arbitrum" type="rss" xmlUrl="https://github.com/OffchainLabs/arbitrum/releases.atom" htmlUrl="https://github.com/OffchainLabs/arbitrum/releases"/>
+		
+	</outline>
   </body>
 </opml>
