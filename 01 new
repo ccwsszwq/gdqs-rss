@@ -7,14 +7,11 @@
 <body>
 	<outline text="01. Project Updates" title="01. Project Updates">
 		<outline text="1inch exchange on Medium" title="1inch exchange on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@1inch-exchange?source=rss-c4f4cadf8a31------2" xmlUrl="https://medium.com/feed/@1inch-exchange"/>
-		<outline text="Aave" title="Aave" description="" type="rss" version="RSS" htmlUrl="https://aave.mirror.xyz/" xmlUrl="https://aave.mirror.xyz/feed/atom"/>
-		<outline text="Aave Blog - Medium" title="Aave Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave?source=rss----b4ab878e405---4" xmlUrl="https://medium.com/feed/aave"/>
 		<outline text="Avalanche on Medium" title="Avalanche on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@avalancheavax?source=rss-f7c9f4ea738f------2" xmlUrl="https://medium.com/feed/@avalancheavax"/>
 		<outline text="Aztec Network - Medium" title="Aztec Network - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aztec-protocol?source=rss----f75d14c7bf64---4" xmlUrl="https://medium.com/feed/aztec-protocol"/>
 		<outline text="Bitcoin Core releases" title="Bitcoin Core releases" description="" type="rss" version="RSS" htmlUrl="https://bitcoin.org/en/version-history" xmlUrl="https://bitcoin.org/en/rss/releases.rss"/>
 		<outline text="Celestia Blog" title="Celestia Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.celestia.org/" xmlUrl="https://blog.celestia.org/rss/"/>
 		<outline text="ChainFeeds" title="ChainFeeds" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/chainfeeds.eth/" xmlUrl="http://mirror.xyz/chainfeeds.eth/feed/atom"/>
-		<outline text="Chainlink" title="Chainlink" description="" type="rss" version="RSS" htmlUrl="https://blog.chain.link/" xmlUrl="https://blog.chain.link/rss/"/>
 		<outline text="Compound - Medium" title="Compound - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/compound-finance?source=rss----22e4df2110f5---4" xmlUrl="https://medium.com/feed/compound-finance"/>
 		<outline text="ConsenSys" title="ConsenSys" description="" type="rss" version="RSS" htmlUrl="https://consensys.net/" xmlUrl="https://feeds.feedburner.com/ConsenSys/posts"/>
 		<outline text="ConsenSys Media - Medium" title="ConsenSys Media - Medium" description="" type="rss" version="RSS" htmlUrl="https://media.consensys.net?source=rss----3018c972aab8---4/" xmlUrl="https://media.consensys.net/feed"/>
@@ -32,7 +29,6 @@
 		<outline text="RabbitHole" title="RabbitHole" description="" type="rss" version="RSS" htmlUrl="https://rabbithole.mirror.xyz/" xmlUrl="https://rabbithole.mirror.xyz/feed/atom"/>
 		<outline text="Snapshot Labs" title="Snapshot Labs" description="" type="rss" version="RSS" htmlUrl="https://snapshot.mirror.xyz/" xmlUrl="https://snapshot.mirror.xyz/feed/atom"/>
 		<outline text="Sushi - Medium" title="Sushi - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sushiswap-org?source=rss----253ae1eaeb9e---4" xmlUrl="https://medium.com/feed/sushiswap-org"/>
-		<outline text="Synthetix Blog" title="Synthetix Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.synthetix.io/" xmlUrl="https://blog.synthetix.io/rss/"/>
 		<outline text="The Optimism Collective" title="The Optimism Collective" description="" type="rss" version="RSS" htmlUrl="https://optimism.mirror.xyz/" xmlUrl="https://optimism.mirror.xyz/feed/atom"/>
 		<outline text="The Sandbox - Medium" title="The Sandbox - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sandbox-game?source=rss----df97fb047c1e---4" xmlUrl="https://medium.com/feed/sandbox-game"/>
 		<outline text="UMA Project - Medium" title="UMA Project - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/uma-project?source=rss----e0a14dc9da94---4" xmlUrl="https://medium.com/feed/uma-project"/>
