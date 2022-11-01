@@ -8,21 +8,20 @@
 <outline text="10" title="10">
 		<outline text="Aave Mirror" title="Aave Mirror" description="" type="rss" version="RSS" htmlUrl="https://aave.mirror.xyz/" xmlUrl="https://aave.mirror.xyz/feed/atom"/>
 		<outline text="MangoDAO" title="MangoDAO" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x15d789D4Dd128CEA5D8E6b6f0adAbe910e5Fd100" xmlUrl="https://mirror.xyz/0x15d789D4Dd128CEA5D8E6b6f0adAbe910e5Fd100/feed/atom"/>
-<outline text="0xTodd" title="0xTodd" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x17f3F81860345567482E1D232FB5B6f8bD77f3Bd" xmlUrl="https://mirror.xyz/0x17f3F81860345567482E1D232FB5B6f8bD77f3Bd/feed/atom"/>
-<outline text="crypto指南针" title="crypto指南针" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x375fe3A8F7a7147b5c70b2189d1a951f293401fB" xmlUrl="https://mirror.xyz/0x375fe3A8F7a7147b5c70b2189d1a951f293401fB/feed/atom"/>
-<outline text="社会主义接班人" title="社会主义接班人" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x5B8c65ffa85fF42695B2f96A3B6eB6E45BBB4AdD" xmlUrl="https://mirror.xyz/0x5B8c65ffa85fF42695B2f96A3B6eB6E45BBB4AdD/feed/atom"/>
-<outline text="小白" title="小白" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x967e0E40FDCE88A36ca9E6e243fC9BfA11545c6E" xmlUrl="https://mirror.xyz/0x967e0E40FDCE88A36ca9E6e243fC9BfA11545c6E/feed/atom"/>
-<outline text="0x4ever.eth" title="0x4ever.eth" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0xDBb497d673304aFC37ae7A9Ac72128719E22eb33" xmlUrl="https://mirror.xyz/0xDBb497d673304aFC37ae7A9Ac72128719E22eb33/feed/atom"/>
-<outline text="追风Lab" title="追风Lab" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/3344521.eth" xmlUrl="https://mirror.xyz/3344521.eth/feed/atom"/>
-<outline text="Godot #Dotsama" title="Godot #Dotsama" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/godotsancho.eth" xmlUrl="https://mirror.xyz/godotsancho.eth/feed/atom"/>
-<outline text="Hao" title="Hao" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/haoxiao.eth" xmlUrl="https://mirror.xyz/haoxiao.eth/feed/atom"/>
-<outline text="Crypto Squirtle/机智的杰尼君" title="Crypto Squirtle/机智的杰尼君" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/meta-mate.eth" xmlUrl="https://mirror.xyz/meta-mate.eth/feed/atom"/>
-<outline text="Seer Labs" title="Seer Labs" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/seerlabs.eth" xmlUrl="https://mirror.xyz/seerlabs.eth/feed/atom"/>
-<outline text="sissi" title="sissi" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/sissixin.eth" xmlUrl="https://mirror.xyz/sissixin.eth/feed/atom"/>
-<outline text="GemFactory24" title="GemFactory24" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/xunfa.eth" xmlUrl="https://mirror.xyz/xunfa.eth/feed/atom"/>
-<outline text="Your Airdrop" title="Your Airdrop" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/yourairdrop.eth" xmlUrl="https://mirror.xyz/yourairdrop.eth/feed/atom"/>
-<outline text="zlexdl.eth" title="zlexdl.eth" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/zlexdl.eth" xmlUrl="https://mirror.xyz/zlexdl.eth/feed/atom"/>
-
+		<outline text="0xTodd" title="0xTodd" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x17f3F81860345567482E1D232FB5B6f8bD77f3Bd" xmlUrl="https://mirror.xyz/0x17f3F81860345567482E1D232FB5B6f8bD77f3Bd/feed/atom"/>
+		<outline text="crypto指南针" title="crypto指南针" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x375fe3A8F7a7147b5c70b2189d1a951f293401fB" xmlUrl="https://mirror.xyz/0x375fe3A8F7a7147b5c70b2189d1a951f293401fB/feed/atom"/>
+		<outline text="社会主义接班人" title="社会主义接班人" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x5B8c65ffa85fF42695B2f96A3B6eB6E45BBB4AdD" xmlUrl="https://mirror.xyz/0x5B8c65ffa85fF42695B2f96A3B6eB6E45BBB4AdD/feed/atom"/>
+		<outline text="小白" title="小白" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x967e0E40FDCE88A36ca9E6e243fC9BfA11545c6E" xmlUrl="https://mirror.xyz/0x967e0E40FDCE88A36ca9E6e243fC9BfA11545c6E/feed/atom"/>
+		<outline text="0x4ever.eth" title="0x4ever.eth" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0xDBb497d673304aFC37ae7A9Ac72128719E22eb33" xmlUrl="https://mirror.xyz/0xDBb497d673304aFC37ae7A9Ac72128719E22eb33/feed/atom"/>
+		<outline text="追风Lab" title="追风Lab" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/3344521.eth" xmlUrl="https://mirror.xyz/3344521.eth/feed/atom"/>
+		<outline text="Godot #Dotsama" title="Godot #Dotsama" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/godotsancho.eth" xmlUrl="https://mirror.xyz/godotsancho.eth/feed/atom"/>
+		<outline text="Hao" title="Hao" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/haoxiao.eth" xmlUrl="https://mirror.xyz/haoxiao.eth/feed/atom"/>
+		<outline text="Crypto Squirtle/机智的杰尼君" title="Crypto Squirtle/机智的杰尼君" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/meta-mate.eth" xmlUrl="https://mirror.xyz/meta-mate.eth/feed/atom"/>
+		<outline text="Seer Labs" title="Seer Labs" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/seerlabs.eth" xmlUrl="https://mirror.xyz/seerlabs.eth/feed/atom"/>
+		<outline text="sissi" title="sissi" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/sissixin.eth" xmlUrl="https://mirror.xyz/sissixin.eth/feed/atom"/>
+		<outline text="GemFactory24" title="GemFactory24" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/xunfa.eth" xmlUrl="https://mirror.xyz/xunfa.eth/feed/atom"/>
+		<outline text="Your Airdrop" title="Your Airdrop" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/yourairdrop.eth" xmlUrl="https://mirror.xyz/yourairdrop.eth/feed/atom"/>
+		<outline text="zlexdl.eth" title="zlexdl.eth" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/zlexdl.eth" xmlUrl="https://mirror.xyz/zlexdl.eth/feed/atom"/>
 	</outline>
 	</body>
 </opml>
