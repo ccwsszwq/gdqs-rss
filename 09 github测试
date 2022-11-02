@@ -6,10 +6,12 @@
 	</head>
 <body>
 	<outline text="01. Project Updates" title="01. Project Updates">
-<outline text="Aptos-core" title="Aptos-core" type="rss" xmlUrl="https://github.com/aptos-labs/aptos-core/releases.atom" htmlUrl="https://github.com/aptos-labs/aptos-core/releases"/>
-<outline text="Arbitrum" title="Arbitrum" type="rss" xmlUrl="https://github.com/OffchainLabs/arbitrum/releases.atom" htmlUrl="https://github.com/OffchainLabs/arbitrum/releases"/>
-<outline text="6" title="6" type="rss" xmlUrl="https://github.com/smartcontractkit/chainlink/releases.atom" htmlUrl="https://github.com/smartcontractkit/chainlink/releases"/>
-
+		<outline text="Aptos-core" title="Aptos-core" type="rss" xmlUrl="https://github.com/aptos-labs/aptos-core/releases.atom" htmlUrl="https://github.com/aptos-labs/aptos-core/releases"/>
+		<outline text="Arbitrum" title="Arbitrum" type="rss" xmlUrl="https://github.com/OffchainLabs/arbitrum/releases.atom" htmlUrl="https://github.com/OffchainLabs/arbitrum/releases"/>
+		<outline text="6" title="6" type="rss" xmlUrl="https://github.com/smartcontractkit/chainlink/releases.atom" htmlUrl="https://github.com/smartcontractkit/chainlink/releases"/>
+		<outline text="江卓尔_莱比特矿池 (Twitter)" title="江卓尔_莱比特矿池 (Twitter)" type="rss" xmlUrl="https://twitter.com/Jiangzhuoer2" htmlUrl="https://twitter.com/Jiangzhuoer2"/>
+		<outline text="Kuang Ren 狂人说趋势 (Twitter)" title="Kuang Ren 狂人说趋势 (Twitter)" type="rss" xmlUrl="https://twitter.com/liujia0224" htmlUrl="https://twitter.com/liujia0224"/>
+		
 	</outline>
   </body>
 </opml>
