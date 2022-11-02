@@ -34,6 +34,13 @@
 <outline text="sunvo.eth" title="sunvo.eth" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/sunvo.eth" xmlUrl="https://mirror.xyz/sunvo.eth/feed/atom"/>
 <outline text="xiaobushou" title="xiaobushou" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/xiaobushou.eth" xmlUrl="https://mirror.xyz/xiaobushou.eth/feed/atom"/>
 <outline text="链上达人" title="链上达人" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x5b197E3eE6770518f6F2735274522F48aBd69864" xmlUrl="https://mirror.xyz/0x5b197E3eE6770518f6F2735274522F48aBd69864/feed/atom"/>
+	
+	<outline text="Blockjoys" title="Blockjoys" description="" type="rss" version="RSS" htmlUrl="https://blockjoys.medium.com/" xmlUrl="https://blockjoys.medium.com/feed/"/>
+<outline text="_bolsheviks" title="_bolsheviks" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@_bolsheviks" xmlUrl="https://medium.com/feed/@_bolsheviks"/>
+<outline text="Encryptiondog" title="Encryptiondog" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@sllong2020" xmlUrl="https://medium.com/feed/@sllong2020"/>
+<outline text="SynFutures" title="SynFutures" description="" type="rss" version="RSS" htmlUrl="https://synfutures.medium.com/" xmlUrl="https://synfutures.medium.com/feed/"/>
+<outline text="Alpha Road" title="Alpha Road" description="" type="rss" version="RSS" htmlUrl="https://alpharoad.medium.com/" xmlUrl="https://alpharoad.medium.com/feed/"/>
+
 
 	</outline>
 	</body>
